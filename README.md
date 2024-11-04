@@ -2,7 +2,7 @@
 
 A complete guide of 12 essential frontend micro-interactions that transform good interfaces into great ones. Each interaction is backed by real A/B testing data and includes practical implementation examples.
 
-![Banner Image](your-banner-image-url.png)
+![Banner Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*PZq1oA0oqpopgZnaPJCWTA.png)
 
 ## 🌟 Featured Interactions
 
